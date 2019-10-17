@@ -1,0 +1,25 @@
+{
+  "name": "oled-font-3x5",
+  "version": "1.0.0",
+  "description": "A 3x5 font made for for oled displays, compatible with rpi-oled, in JSON.",
+  "main": "oled-font-3x5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabiopiratininga/oled-font-3x5.git"
+  },
+  "keywords": [
+	"3x5",
+	"rpi",
+    "font",
+    "oled"
+  ],
+  "author": "Fabio Cardoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiopiratininga/oled-font-3x5/issues"
+  },
+  "homepage": "https://github.com/fabiopiratininga/oled-font-3x5"
+}
